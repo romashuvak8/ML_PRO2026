@@ -25,6 +25,7 @@ dev = [
     "httpx",
     "locust",
     "ruff",
+    "pre-commit>=4.6.2",
 ]
 
 [build-system]
